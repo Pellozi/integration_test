@@ -1,4 +1,4 @@
-# teste_automacao
+# integration_test
 
 Projeto para aula de devops.
 
